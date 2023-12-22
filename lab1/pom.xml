@@ -15,6 +15,14 @@
     </properties>
 
     <dependencies>
+        <!-- https://mvnrepository.com/artifact/clojure-interop/javax.swing -->
+        <dependency>
+            <groupId>clojure-interop</groupId>
+            <artifactId>javax.swing</artifactId>
+            <version>1.0.5</version>
+        </dependency>
+
+
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-controls</artifactId>

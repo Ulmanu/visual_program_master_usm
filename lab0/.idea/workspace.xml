@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="441f7d29-876b-45e4-bd4c-e2e797b2e6ea" name="Changes" comment="lab0">
-      <change afterPath="$PROJECT_DIR$/../lab1/src/main/java/com/example/lab1/ComputerManagementAppFX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab1/src/main/java/com/example/lab1/PersonalComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/src/main/java/com/example/lab1/NumeApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/computer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/computer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/computer.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,18 +30,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/cristian/Development/visual_program_master_usm/lab0",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.ComputerManagementApp">
     <configuration name="ComputerManagementApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ComputerManagementApp" />
@@ -74,6 +75,7 @@
       <updated>1702298916011</updated>
       <workItem from="1702298917203" duration="6656000" />
       <workItem from="1702908249840" duration="2388000" />
+      <workItem from="1703089840212" duration="703000" />
     </task>
     <task id="LOCAL-00001" summary="lab0">
       <created>1702304050058</created>
